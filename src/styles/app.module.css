@@ -1,0 +1,12 @@
+.App {
+  background-color: lightgray;
+  margin: 20px auto;
+  max-width: 650px;
+}
+
+.boxContainer {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 650px;
+}
+label {
+    margin-right: 10px;
+}
+.colorInput {
+    border-radius: 5px;
+}
+.btn {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 3px 10px;
+}
